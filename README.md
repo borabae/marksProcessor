@@ -1,1 +1,4 @@
-# marksProcessor
+- A basic program to enter percentage scores and translate them into grade scores
+- Puts name and grade into table and calculates perctage of people recieved that grade
+- Doesn't currently store data
+- Completed as part of a Software Devlopment course at Kangan
